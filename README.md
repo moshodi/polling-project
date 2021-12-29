@@ -37,7 +37,7 @@ In your terminal change to a directory of your choice and clone the repo.
 
 Once the repo is cloned, change to the repo's directory in the terminal.
 
-	$ cd pollingSystem
+	$ cd polling-project
 	
 Now your terminal is inside the project.
 
